@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Content Provider Ass4</string>
+    <string name="_059">059 - - - - - - -</string>
+    <string name="enter_massage">Enter Massage.</string>
+    <string name="for1">For :</string>
+    <string name="todo">TODO</string>
+    <string name="phone">Phone</string>
+    <string name="textview">TextView</string>
+</resources>

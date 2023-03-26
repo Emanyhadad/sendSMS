@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/drawable/edshape.xml" value="0.177" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/drawable/ic_profile.xml" value="0.177" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/drawable/ic_sent.xml" value="0.177" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/drawable/ic_telegram2.xml" value="0.177" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/layout/activity_send_sms.xml" value="0.25" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/3/Work/ContentProviderAss4/app/src/main/res/layout/item_custom.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
